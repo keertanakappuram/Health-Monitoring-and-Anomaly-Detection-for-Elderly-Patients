@@ -95,11 +95,3 @@ This project uses the [MobiFall Dataset](https://bmi.hmu.gr/the-mobifall-and-mob
 
 - **Official source**: Available upon request from the Biomedical Informatics Laboratory at bmi@hmu.gr (free for research/educational use)
 - **Kaggle mirror**: [MobiFall Dataset v2.0 on Kaggle](https://www.kaggle.com/datasets/kmknation/mobifall-dataset-v20)
-
----
-
-## 🔗 Related Projects
-
-- [Personalized Clothing Fit Recommendation](https://github.com/keertanakappuram/Personalised-Clothing-And-Fit-Recommendation-System)
-- [GitHub Profile](https://github.com/keertanakappuram)
-- [LinkedIn](https://linkedin.com/in/keertanakappuram)
