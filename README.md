@@ -9,7 +9,14 @@
 Elderly patients are at elevated risk from undetected health deterioration — irregular heart rate, abnormal temperature spikes, or sudden falls can go unnoticed without continuous monitoring. This project builds an automated anomaly detection pipeline on wearable sensor data to flag potential health risks in real time and surface them through interpretable visual dashboards.
 
 ---
+## 📦 Dataset
 
+This project uses the [MobiFall Dataset](https://bmi.hmu.gr/the-mobifall-and-mobiact-datasets-2/) — wearable sensor data (accelerometer & gyroscope) from a smartphone for fall detection and activity recognition.
+
+- **Official source**: Available upon request from the Biomedical Informatics Laboratory at bmi@hmu.gr (free for research/educational use)
+- **Kaggle mirror**: [MobiFall Dataset v2.0 on Kaggle](https://www.kaggle.com/datasets/kmknation/mobifall-dataset-v20)
+
+---
 ## 📊 Results
 
 | Metric | Score |
@@ -86,12 +93,3 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook health_anomaly_detection.ipynb
 ```
-
----
-
-## 📦 Dataset
-
-This project uses the [MobiFall Dataset](https://bmi.hmu.gr/the-mobifall-and-mobiact-datasets-2/) — wearable sensor data (accelerometer & gyroscope) from a smartphone for fall detection and activity recognition.
-
-- **Official source**: Available upon request from the Biomedical Informatics Laboratory at bmi@hmu.gr (free for research/educational use)
-- **Kaggle mirror**: [MobiFall Dataset v2.0 on Kaggle](https://www.kaggle.com/datasets/kmknation/mobifall-dataset-v20)
