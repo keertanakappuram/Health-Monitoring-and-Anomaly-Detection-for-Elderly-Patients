@@ -1,6 +1,6 @@
 # 🏥 Health Monitoring & Anomaly Detection for Elderly Patients
 
-> An end-to-end system for detecting abnormal vital-sign patterns in wearable sensor data - achieving **90%+ recall** on anomaly detection across heart rate, temperature, and activity signals.
+> An end-to-end system for detecting abnormal vital-sign patterns in wearable sensor data — achieving **90%+ recall** on anomaly detection across heart rate, temperature, and activity signals.
 
 ---
 
@@ -86,6 +86,15 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook health_anomaly_detection.ipynb
 ```
+
+---
+
+## 📦 Dataset
+
+This project uses the [MobiFall Dataset](https://bmi.hmu.gr/the-mobifall-and-mobiact-datasets-2/) — wearable sensor data (accelerometer & gyroscope) from a smartphone for fall detection and activity recognition.
+
+- **Official source**: Available upon request from the Biomedical Informatics Laboratory at bmi@hmu.gr (free for research/educational use)
+- **Kaggle mirror**: [MobiFall Dataset v2.0 on Kaggle](https://www.kaggle.com/datasets/kmknation/mobifall-dataset-v20)
 
 ---
 
