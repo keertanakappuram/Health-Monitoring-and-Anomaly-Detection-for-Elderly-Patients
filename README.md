@@ -1,6 +1,6 @@
 # 🏥 Health Monitoring & Anomaly Detection for Elderly Patients
 
-> An end-to-end system for detecting abnormal vital-sign patterns in wearable sensor data — achieving **90%+ recall** on anomaly detection across heart rate, temperature, and activity signals.
+> An end-to-end system for detecting abnormal vital-sign patterns in wearable sensor data - achieving **90%+ recall** on anomaly detection across heart rate, temperature, and activity signals.
 
 ---
 
